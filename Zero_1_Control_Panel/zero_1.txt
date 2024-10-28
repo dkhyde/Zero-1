@@ -1,0 +1,23 @@
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-F_Silkscreen.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-F_Cu.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-B_Cu.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-F_Paste.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-B_Paste.gbr'.
+Created Gerber job file '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-job.gbrjob'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-B_Silkscreen.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-F_Mask.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-B_Mask.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-Edge_Cuts.gbr'.
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-F_Cu.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-B_Cu.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-F_Paste.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-B_Paste.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-F_Silkscreen.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-B_Silkscreen.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-F_Mask.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-B_Mask.gbr'.
+Plotted to '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/dk/Documents/Zero_1_Control_Panel/Zero_1_Control_Panel-job.gbrjob'.
+Info: Done.
+Info: Done.
